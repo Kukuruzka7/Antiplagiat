@@ -1,0 +1,10 @@
+plagiat/files/__init__.py plagiat/plagiat1/__init__.py
+plagiat/files/__main__.py plagiat/plagiat1/__main__.py
+plagiat/files/_workarounds.py plagiat/plagiat1/_workarounds.py
+plagiat/files/add_constant.py plagiat/plagiat1/add_constant.py
+plagiat/files/any_percent_bc.py plagiat/plagiat1/any_percent_bc.py
+plagiat/files/apply_lambda.py plagiat/plagiat1/apply_lambda.py
+plagiat/files/arima.py plagiat/plagiat1/arima.py
+plagiat/files/assembling_pipelines.py plagiat/plagiat1/assembling_pipelines.py
+plagiat/files/auto.py plagiat/plagiat1/auto.py
+plagiat/files/autoarima.py plagiat/plagiat1/autoarima.py
